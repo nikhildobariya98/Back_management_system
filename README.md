@@ -12,6 +12,15 @@ Three type of data show:
 5. Transfer the money
 6. Withdraw the money
 
+# installing
+
+To preview and run the Code on your device:
+
+1. Open Source code folder in Visual Studio Code.
+  - Vs code download link :- https://code.visualstudio.com/download
+2. OR Open source code folder in DEV C/C++.
+  - DEV C/C++ download link :- https://sourceforge.net/projects/orwelldevcpp/
+
 # Screenshort
 
 ![Screenshot 2024-12-19 211255](https://github.com/user-attachments/assets/19cdfe6b-1505-4b65-b890-3b3219bd61f6)
